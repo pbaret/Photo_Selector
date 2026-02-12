@@ -25,7 +25,16 @@ Photo Selector is a lightweight utility application designed to help users brows
 git clone https://github.com/yourusername/photo_selector.git
 cd photo_selector
 uv sync
+```
+
+Then to launch the application:
+
+```bash
 uv run python -m picture_reviewer
+
+OR
+
+python run_app.py
 ```
 
 ## Usage
